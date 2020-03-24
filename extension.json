@@ -1,6 +1,6 @@
 {
   "code": "igniter.payregister",
-  "name": "Pay Register",
+  "name": "Pay Test",
   "description": "Allows you to accept credit card payments using PayPal, Stripe, Authorize.Net and/or Mollie.",
   "version": "v1.3.1",
   "author": "SamPoyigi",
